@@ -5,12 +5,12 @@
     "image": "",
     "email": "hwang298@jh.edu",
     "url": "https://haonanwang411.github.io/",
-    "summary": "PhD student based in the Cancer Dynamics Lab @ The Francis Crick Institute.",
+    "summary": "Master student at Johns Hopkins University.",
     "profiles": [
       {
         "network": "Twitter",
-        "username": "matous_elphick",
-        "url": "https://x.com/matous_elphick"
+        "username": "Haonan_Whn628",
+        "url": "https://x.com/Haonan_Whn628"
       }
     ]
   },
@@ -45,21 +45,21 @@
   ],
   "education": [
     {
-      "institution": "The Francis Crick Institute | The Institue for Cancer Research | Imperial College London",
-      "location": "London, UK",
-      "studyType": "PhD Student",
-      "url": "https://www.crick.ac.uk/research/labs/samra-turajlic",
-      "startDate": "2024",
-      "endDate": "2028"
+      "institution": "ISLE lab | Johns Hopkins University",
+      "location": "Baltimore, Maryland, USA",
+      "studyType": "Master Student",
+      "url": "https://www.jhu.edu/",
+      "startDate": "2023-09",
+      "endDate": "2024-12"
     },
     {
-      "institution": "Newcastle University",
-      "location": "Newcastle, UK",
-      "url": "https://www.ncl.ac.uk/",
-      "studyType": "BSc in Computer Science (with Industrial Placement)",
-      "startDate": "2020",
-      "endDate": "2024",
-      "score": "First Class"
+      "institution": "Liaoning Technology University",
+      "location": "Fuxin, Liaoning,China",
+      "url": "https://en.lntu.edu.cn/",
+      "studyType": "Information and Computing Science(B.S.Degree)",
+      "startDate": "2019-09",
+      "endDate": "2023-07",
+      "score": "GPA: [3.42/4.0(Rank Top 1st)]"
     }
   ],
   "awards": [
@@ -71,20 +71,4 @@
       "summary": "Recipient of the Pathological Society Undergraduate Bursary which funded a six-week long research placement in the Cancer Dynamics Lab in the Francis Crick Institute."
     }
   ],
-  "publications": [
-    {
-      "name": "CLEM-Reg: An automated point cloud based registration algorithm for correlative light and volume electron microscopy",
-      "publisher": "bioRxiv",
-      "releaseDate": "2023-05",
-      "url": "https://www.biorxiv.org/content/biorxiv/early/2024/03/07/2023.05.11.540445.full.pdf",
-      "summary": "Correlative light and volume electron microscopy (vCLEM) allows visualization of fluorescently labeled proteins within their ultrastructural context, but the manual alignment process can be slow and biased. CLEM-Reg is an automated, deep learning-based workflow that aligns vCLEM datasets with near-expert accuracy, and its resources, including datasets and a napari plugin, are publicly available for further development and use."
-    },
-    {
-      "name": "napari: A Multidimensional Image Viewer for Python. A guide to some of the key concepts of napari",
-      "publisher": "Better Programming",
-      "releaseDate": "2023-03",
-      "url": "https://betterprogramming.pub/napari-a-multi-dimensional-image-viewer-for-python-1522b3e84c11",
-      "summary": "Napari is an open-source, Python-based tool for high-performance visualization, annotation, and analysis of large multidimensional images, with extensive plugin support for handling diverse imaging data types.\n\n\n\n\n\n\n\n"
-    }
-  ]
 }
