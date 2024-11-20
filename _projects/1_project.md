@@ -1,14 +1,12 @@
 ---
 layout: page
-title: CLEM-Reg
-description: An automated point cloud based registration algorithm for correlative light and volume electron microscopy
-img: assets/img/projects/clemreg/clemreg_project_post.jpeg
+title: Artificial Intelligence Robot Programming Interactive control system
+description: PRC Software Copyright Patent,Patent No. 2022SR1053901
+img:
 importance: 1
 category: work
 related_publications: true
 ---
-this posts summarises the [paper](https://www.biorxiv.org/content/10.1101/2023.05.11.540445v2) I helped work on during
-my placement year at the Francis Crick Institute. 
 
 ## Background
 
