@@ -24,7 +24,7 @@ Prior to JHU, I received my B.S. degree in Information and Computer Science, and
 
 
 **Research interest:** My research objective is in the area of the intersection of **human-computer interaction(HCI)**
-and **Natural Language Processing(NLP)** evaluation and application. Specifically, exploring
+,**Natural Language Understanding(NLG)** evaluation and application and **Reinforcement Learing**. Specifically, exploring
 how we can understand, leverage, and evaluate generative AI technologies, like **Large Language
 Models(LLMs)** from a human-centered interactive perspective. And build interactive NLP systems
 based on these explorations to enhance human decision-making in a collaborative manner. 
