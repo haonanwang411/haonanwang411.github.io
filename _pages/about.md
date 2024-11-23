@@ -39,7 +39,7 @@ Text games provide a simplified yet dynamic environment for training and evaluat
 
 In the past, I also worked on conversation data analysis, Computer Vision and Driveless tasks, and some other Machel Learning algorithms.
 
-## Honors
+## Honors and awards
 **2022 China Nation Scholarship**: Awarded the highly competitive China National Scholarship, granted to the top 1% of students nationwide in
 recognition of outstanding academic performance, research excellence, and comprehensive personal development.
 
