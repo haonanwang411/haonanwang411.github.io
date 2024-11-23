@@ -29,7 +29,8 @@ My research objective is in the area of the intersection of **human-computer int
 how we can understand, leverage, and evaluate generative AI technologies, like **Large Language
 Models(LLMs)** from a human-centered interactive perspective. And build interactive NLP systems
 based on these explorations to enhance human decision-making collaboratively. 
-Under this topic, I aim to delve deeper into [text games](https://www.textgames.org/) as a research medium.
+
+Under this topic, I aim to delve deeper into [text games](https://www.textgames.org/) as a research background.
 Text games serve as an abstract and highly flexible environment to study and test large language models (LLMs) and interactive systems. In my research work, I want to explore three interesting directions:
 - **1.Text games and Intelligent Agents**:
 Text games provide a simplified yet dynamic environment for training and evaluating intelligent agents. These agents must process natural language inputs, plan actions, and adapt to changing scenarios—skills that are critical for real-world applications. Using text games to study intelligent agents' decision-making, memory, and collaboration in partially observable, multi-turn environments.
