@@ -34,5 +34,4 @@ Text games provide a simplified yet dynamic environment for training and evaluat
 - **2. Text games and AI evaluation**: Moving beyond static benchmarks, I leverage text games to evaluate LLMs’ reasoning, adaptability, and performance in dynamic tasks.
 - **3.Text games and Real-world applications**: Applying insights from text games to develop systems for education, decision-making, and human-AI collaboration.
 In the past, I also worked on conversation data analysis, Computer Vision and Driveless tasks, and some other Machel Learning algorithms.
-\\
 
