@@ -246,7 +246,7 @@ plugins:
   - jekyll-link-attributes
   - jekyll-minifier
   - jekyll-paginate-v2
-  - jekyll/scholar
+  - jekyll-scholar
   - jekyll-sitemap
   - jekyll-toc
   - jekyll-twitter-plugin
@@ -301,9 +301,9 @@ scholar:
   locale: en
 
   source: /_bibliography/
-  bibliography: 
-      papers.bib
-      paper2.bib
+  bibliography:
+    - papers.bib
+    - paper2.bib
   bibliography_template: bib
   # Note: if you have latex math in your bibtex, the latex filter
   # preprocessing may conflict with MathJAX if the latter is enabled.
