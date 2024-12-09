@@ -21,7 +21,7 @@ jobs:
       - name: Install Prettier 💾
         run: npm install --save-dev --save-exact prettier @shopify/prettier-plugin-liquid
       - name: Prettier Auto-Fix ✨
-        run: npx prettier. --write
+        run: npx prettier . --write
       - name: Auto Commit and Push 🖋️
         if: ${{ failure() }}
         run: |
