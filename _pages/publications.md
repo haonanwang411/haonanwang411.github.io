@@ -10,7 +10,6 @@ nav_order: 2
 <!-- _pages/publications.md -->
 <div class="publications">
 
-{% bibliography --file papers.bib %}
-{% bibliography --file paper2.bib %}
+{% bibliography %}
 
 </div>
