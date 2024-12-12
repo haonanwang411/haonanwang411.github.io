@@ -1,7 +1,6 @@
-
 ---
 layout: page
-title: Refactored text game project
+title: Image recognition processing operation platform
 description: 
 img:
 importance: 2
