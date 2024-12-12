@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Artificial Intelligence Robot Programming Interactive control system
+title: Software Copyright Patent
 description: PRC Software Copyright Patent, Patent No. 2022SR1053901
 img:
 importance: 1
