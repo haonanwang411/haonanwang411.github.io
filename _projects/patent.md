@@ -1,7 +1,7 @@
 ---
 layout: page
 title: Software Copyright Patent
-description: PRC Software Copyright Patent, Patent No. 2022SR1053901
+description: PRC Software Copyright Patent
 img:
 importance: 1
 category: work
@@ -10,32 +10,6 @@ related_publications: true
 
 ## Background
 
----
-.
-
-<div class="row">
-    <div class="col-sm mt-3 mt-md-0">
-        {% include figure.liquid loading="eager" path="assets/img/projects/clemreg/vCLEM-fig.jpg" title="example image" class="img-fluid rounded z-depth-1" %}
-    </div>
-</div>
-<div class="caption">
-    Simplified protocol for creating a vCLEM dataset.
-</div>
-
-
-## Methods
-
----
-
-
-## Results
-
----
-
-
-
-## Conclusions
-
----
-
+Haonan Wang, Mingjia, Zhao, et al. (2022). Artificial intelligence robot programming interactive control
+system.PRC Software Copyright Patent, Patent No. 2022SR1053901.
 
