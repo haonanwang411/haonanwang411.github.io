@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Text-game project
+title: Refactored text game project
 description: 
 img:
 importance: 2
@@ -9,3 +9,20 @@ related_publications: true
 ---
 
 ## Background
+
+---
+
+## Methods
+
+---
+
+
+## Results
+
+---
+
+
+
+## Conclusions
+
+---
