@@ -10,7 +10,7 @@ related_publications: true
 
 ## Background
 [Byte-sized text games](https://arxiv.org/abs/2305.14879) are used for code-generation tasks in virtual environments. In this [refactored_BYTESIZED32](https://github.com/isle-dev/BYTESIZED32-Refactored/edit/main/README.md), we aim to optimize the code for a collection of 32 games with similar structures and mechanics. The key focus areas were modularity, readability, reusability, extensibility, and performance. Each game followed a common pattern with variations in game-specific rules, objects, and actions, which provided an excellent opportunity to abstract shared logic and create a reusable framework.
----
+
 
 ## Project structure
 In our project structure, the old work(#) is the same as [Bytesized32](https://github.com/cognitiveailab/BYTESIZED32), and our new refactored games(*) work is also included. 
