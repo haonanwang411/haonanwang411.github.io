@@ -1,6 +1,7 @@
 ---
 layout: page
 title: Refactored text game project
+author:[Haonan Wang](https://haonanwang411.github.io/), [Ziang Xiao](https://www.ziangxiao.com/)
 description: 
 img:
 importance: 2
