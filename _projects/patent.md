@@ -28,5 +28,6 @@ related_publications: true
       
 [P.7]  Data operation analysis and collection system based on machine learning. \
       **Haonan Wang**, Junfeng Sun, et al. (2022). PRC Software Copyright Patent, Patent No. 2022SR1052428.
+      
 [P.8]  Staff check-in face recognition system.\
     Jiawei, Zhang, Pengyu, Cai, **Haonan Wang**, et al. (2021). PRC Software Copyright Patent, Patent No. 2021SR0699354.
