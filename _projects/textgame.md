@@ -1,15 +1,14 @@
 ---
 layout: page
 title: Refactored text game project
-author:[Haonan Wang](https://haonanwang411.github.io/),
-[Ziang Xiao](https://www.ziangxiao.com/)
 description: 
 img:
 importance: 2
 category: work
 related_publications: true
 ---
-
+## Author
+ [Haonan Wang](https://haonanwang411.github.io/),[Ziang Xiao](https://www.ziangxiao.com/)
 ## Background
 [Byte-sized text games](https://arxiv.org/abs/2305.14879) are used for code-generation tasks in virtual environments. In this [refactored_BYTESIZED32](https://github.com/isle-dev/BYTESIZED32-Refactored/edit/main/README.md), we aim to optimize the code for a collection of 32 games with similar structures and mechanics. The key focus areas were modularity, readability, reusability, extensibility, and performance. Each game followed a common pattern with variations in game-specific rules, objects, and actions, which provided an excellent opportunity to abstract shared logic and create a reusable framework.
 
