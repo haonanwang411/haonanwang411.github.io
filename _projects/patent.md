@@ -2,7 +2,7 @@
 layout: page
 title: Software Copyright Patent
 description: PRC Software Copyright Patent
-img:
+img: assets/img/projects/clemreg/patent.png
 importance: 1
 category: work
 related_publications: true
