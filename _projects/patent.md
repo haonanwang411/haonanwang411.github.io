@@ -8,11 +8,6 @@ category: work
 related_publications: true
 ---
 
-## Acknowledgments
-     These works are all supported in part by the China University Student Innovation and Entrepreneurship Fund and the National Natural Science Foundation of China under Grant 52374123, in part by the Basic Scientific Research Project of the Liaoning Provincial Department of Education under Grant LJ212410147013, and part by Liaoning Revitalization Talents Program under Grant XLYC2211085. We sincerely thank Prof. [Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof. Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264) at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining for their invaluable guidance in shaping the research direction, refining the core ideas, and identifying relevant literature. 
-     
-## PRC Software Copyright Patent
-
 [P.1] **Artificial intelligence robot programming interactive control system**.\
       ***Haonan Wang***, Mingjia, Zhao, et al. (2022).PRC Software Copyright Patent, Patent No. 2022SR1053901.
  
@@ -36,3 +31,6 @@ related_publications: true
       
 [P.8] **Staff check-in face recognition system**.\
     Jiawei, Zhang, Pengyu, Cai, ***Haonan Wang***, et al. (2021). PRC Software Copyright Patent, Patent No. 2021SR0699354.
+
+## Acknowledgments
+     These works are all supported in part by the China University Student Innovation and Entrepreneurship Fund and the National Natural Science Foundation of China under Grant 52374123, in part by the Basic Scientific Research Project of the Liaoning Provincial Department of Education under Grant LJ212410147013, and part by Liaoning Revitalization Talents Program under Grant XLYC2211085. We sincerely thank Prof. [Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof. Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264) at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining for their invaluable guidance in shaping the research direction, refining the core ideas, and identifying relevant literature. 
