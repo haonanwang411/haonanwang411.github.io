@@ -9,7 +9,7 @@ related_publications: true
 ---
 
 ## Acknowledgments
-     These works are all supported in part by the China University Student Innovation and Entrepreneurship Fund and the National Natural Science Foundation of China under Grant 52374123, in part by the Basic Scientific Research Project of the Liaoning Provincial Department of Education under Grant LJ212410147013\, and part by Liaoning Revitalization Talents Program under Grant XLYC2211085. We sincerely thank Prof. [Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof. Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264) at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining for their invaluable guidance in shaping the research direction, refining the core ideas, and identifying relevant literature. 
+     These works are all supported in part by the China University Student Innovation and Entrepreneurship Fund and the National Natural Science Foundation of China under Grant 52374123, in part by the Basic Scientific Research Project of the Liaoning Provincial Department of Education under Grant LJ212410147013, and part by Liaoning Revitalization Talents Program under Grant XLYC2211085. We sincerely thank Prof. [Wei Liu](https://www.researchgate.net/profile/Wei-Liu-523) and [Prof. Yu Zhang](https://www.researchgate.net/profile/Yu-Zhang-264) at the Institute of Mathematics and Systems Science and the Institute of Machine Learning and Data Mining for their invaluable guidance in shaping the research direction, refining the core ideas, and identifying relevant literature. 
      
 ## PRC Software Copyright Patent
 
