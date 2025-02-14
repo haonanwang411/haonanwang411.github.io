@@ -45,6 +45,14 @@ recognition of outstanding academic performance, research excellence, and compre
 ## Publications quick start
 
 #### 📘📕Journals
+- **Design and
+Optimization of Reinforcement Learning-Based Agents in Text-Based Games.**\
+<span style="color:darkblue">**Haonan Wang**</span>,  Mingjia Zhao，Junfeng Sun,Wei Liu.\
+International Journal of Computer Science and Information Technology, 2025. [[pdf]](),
+
+- **Research on the Integration of Embodied Intelligence and Reinforcement Learning in Textual Domains.**\
+<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Wei Liu.\
+Journal of Computer Science and Artificial Intelligence, 2025. [[pdf]](),
 
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
