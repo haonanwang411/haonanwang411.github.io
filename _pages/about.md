@@ -44,7 +44,7 @@ In the past, I also worked on conversation data analysis, Computer Vision and Dr
 recognition of outstanding academic performance, research excellence, and comprehensive personal development.
 ## Publications quick start
 
-#### Journals
+#### 📘📕Journals
 
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
