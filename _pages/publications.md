@@ -2,7 +2,7 @@
 layout: page
 permalink: /publications/
 title: publications
-description: A Part of the Publications PDF in there.
+description: A Part of the Publications PDF.
 nav: true
 nav_order: 2
 ---
