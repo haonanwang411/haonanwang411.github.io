@@ -38,8 +38,6 @@ layout: default
       </div>
     {% endif %}
 
-    <div class="clearfix">{{ content }}</div>
-
     <!-- News -->
     {% if page.news and site.announcements.enabled %}
       <h2>
@@ -48,6 +46,9 @@ layout: default
       {% include news.liquid limit=true %}
     {% endif %}
 
+    <div class="clearfix">{{ content }}</div>
+
+   
     <!-- Latest posts -->
     {% if site.latest_posts.enabled %}
       <h2>
