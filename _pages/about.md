@@ -43,9 +43,8 @@ In the past, I also worked on conversation data analysis, Computer Vision and Dr
 **2022 China Nation Scholarship**: Awarded the highly competitive China National Scholarship, granted to the top 1% of students nationwide in
 recognition of outstanding academic performance, research excellence, and comprehensive personal development.
 ## Publications quick start
-### Conference
 
-### Journals
+#### Journals
 
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
