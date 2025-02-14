@@ -34,7 +34,7 @@ Under this topic, I aim to delve deeper into [text world](https://www.textgames.
 Text games serve as an abstract and highly flexible environment to study and test large language models (LLMs) and interactive systems. In my research work, I want to explore three interesting directions:
 - **1.Text games and Intelligent Agents**:
 Text games provide a simplified yet dynamic environment for training and evaluating intelligent agents. These agents must process natural language inputs, plan actions, and adapt to changing scenarios—skills that are critical for real-world applications. Using text games to study intelligent agents' decision-making, memory, and collaboration in partially observable, multi-turn environments.
-- **2. Text games and human-center evaluation**: Moving beyond static benchmarks, I leverage text games to evaluate LLMs’ reasoning, adaptability, and performance in dynamic tasks.
+- **2. Text games and human-centered evaluation**: Moving beyond static benchmarks, I leverage text games to evaluate LLMs’ reasoning, adaptability, and performance in dynamic tasks.
 - **3.Text games and Real-world applications**: Applying insights from text games to develop systems for education, decision-making, and human-AI collaboration.
 
 In the past, I also worked on conversation data analysis, Computer Vision and Driveless tasks, and some other Machel Learning algorithms.
@@ -46,6 +46,23 @@ recognition of outstanding academic performance, research excellence, and compre
 ### Conference
 
 ### Journals
+
 - **Adaptive Path-Planning for Autonomous Robots: A UCH-Enhanced Q-Learning Approach.**\
 Wei Liu, Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Guangwei Liu.\
 Advances in Artificial Intelligence and Machine Learning, 2025. [[pdf]](https://arxiv.org/abs/2501.05411),
+
+- **Unsupervised Feature Selection Algorithm Based on L2,p-norm Feature Reconstruction.**\
+Wei Liu, Qian Ning,Guangwei Liu,<span style="color:darkblue">**Haonan Wang**</span>,Yixin Zhu, Miao Zhong.\
+Plos one, 2025. [[pdf]](),
+
+- **IM3HRL: Model-assisted Intrinsically Motivated Modular Hierarchical Reinforcement Learning.**\
+Wei Liu, Jiaxiang Wang, Guangwei Liu, <span style="color:darkblue">**Haonan Wang**</span>.\
+Scientific Reports, 2024. [[pdf]](https://www.researchsquare.com/article/rs-4299675/v1),
+
+- **Research on geometric figure classification algorithm based on Deep Learning.**\
+Ruiyang Wang,<span style="color:darkblue">**Haonan Wang**</span>, Junfeng Sun, Mingjia Zhao, Meng Liu.\
+Advances in Artificial Intelligence and Machine Learning, 2022. [[pdf]](https://arxiv.org/abs/2404.16561),
+
+- **Research status and future prospects of machine learning algorithm in big data analysis.**\
+<span style="color:darkblue">**Haonan Wang**</span>,.\
+Scientific Journal of Intelligent Systems Research,2022. [[pdf]](https://www.clausiuspress.com/article/1212.html),
